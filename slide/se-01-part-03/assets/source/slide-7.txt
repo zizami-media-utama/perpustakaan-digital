@@ -1,4 +1,4 @@
-Perpustakaan Tradisional:
+lalu kita akan memahami Perbedaan dalam Penyimpanan & Pemeliharaan. Perpustakaan Tradisional:
 
 Koleksi fisik di perpustakaan, seperti buku, manuskrip, dan arsip, memiliki kerentanan terhadap berbagai faktor lingkungan yang dapat menyebabkan degradasi seiring waktu. Kertas, sebagai bahan utama dalam koleksi perpustakaan, rentan terhadap kelembapan, suhu ekstrem, serta paparan cahaya yang berlebihan, yang dapat mempercepat proses pelapukan dan membuatnya rapuh. Selain itu, tinta yang digunakan dalam pencetakan juga dapat memudar atau luntur, terutama jika bahan pustaka tidak disimpan dalam kondisi yang sesuai. Tanpa perawatan yang tepat, koleksi ini dapat mengalami penurunan kualitas hingga akhirnya tidak dapat digunakan lagi.
 
@@ -6,7 +6,7 @@ Selain faktor usia, bencana alam seperti banjir, kebakaran, dan gempa bumi juga 
 
 Untuk mengatasi kerentanan koleksi fisik, banyak perpustakaan mulai melakukan digitalisasi koleksi penting guna memastikan keberlanjutannya. Proses ini tidak hanya membantu melestarikan informasi yang terkandung dalam dokumen fisik, tetapi juga memudahkan akses bagi lebih banyak orang tanpa harus menyentuh bahan asli yang rentan rusak. Meskipun koleksi fisik tetap memiliki nilai historis dan estetika yang penting, digitalisasi menjadi solusi yang efektif dalam melindungi dan mendistribusikan pengetahuan secara lebih luas dan aman.
 
-Perpustakaan Digital:
+sementara Perpustakaan Digital:
 
 Koleksi digital memiliki keunggulan dalam hal kemudahan penyalinan dan distribusi, memungkinkan informasi dapat diakses oleh lebih banyak orang tanpa batasan geografis. File digital seperti e-book, jurnal elektronik, dan arsip digital dapat didistribusikan dengan cepat melalui internet, memungkinkan perpustakaan untuk memperluas jangkauan layanan mereka. Selain itu, teknologi penyimpanan berbasis cloud dan sistem manajemen perpustakaan digital memungkinkan pengguna untuk mengakses koleksi dari berbagai perangkat tanpa harus datang ke lokasi fisik perpustakaan.
 

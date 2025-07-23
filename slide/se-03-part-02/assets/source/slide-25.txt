@@ -1,4 +1,4 @@
-MARC adalah standar internasional untuk pengkodean metadata katalog perpustakaan. Digunakan untuk mengatalogkan bahan fisik maupun digital.
+pembahasan selanjutnya mengenai MARC (Machine-Readable Cataloging). MARC adalah standar internasional untuk pengkodean metadata katalog perpustakaan. Digunakan untuk mengatalogkan bahan fisik maupun digital.
 
 1. keunggulan
 

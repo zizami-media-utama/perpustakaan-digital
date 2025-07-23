@@ -1,4 +1,4 @@
-Metadata adalah penghubung antara koleksi digital dan penggunanya. Metadata yang terstruktur dengan baik memungkinkan informasi untuk lebih mudah ditemukan melalui pencarian berbasis metadata.  
+lalu, apa hubungan Hubungan Metadata dan Aksesibilitas. Metadata adalah penghubung antara koleksi digital dan penggunanya. Metadata yang terstruktur dengan baik memungkinkan informasi untuk lebih mudah ditemukan melalui pencarian berbasis metadata.  
 Contoh Pengaruh Metadata Terhadap Aksesibilitas:
 
 1. Tanpa metadata, pengelolaan koleksi digital menjadi sangat menantang. Informasi yang tersimpan dalam bentuk digital tanpa deskripsi yang jelas atau pengelompokan tertentu sulit untuk ditemukan atau diakses dengan cepat. Pengguna yang mencari data atau dokumen tertentu akan kesulitan mengetahui apakah informasi yang mereka butuhkan ada dalam koleksi, apalagi menavigasi atau memilah-milah data tersebut. Tanpa struktur metadata yang tepat, pencarian menjadi tidak terarah dan tidak efisien, sering kali mengarah pada hasil yang tidak relevan atau bahkan mengakibatkan kegagalan pencarian.

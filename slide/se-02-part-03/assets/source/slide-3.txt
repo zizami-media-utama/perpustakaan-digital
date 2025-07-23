@@ -1,4 +1,4 @@
-- File Digital
+yang pertama yaitu Definisi File Digital. - File Digital
 
 Data atau informasi yang disimpan dalam bentuk elektronik mencakup berbagai jenis format, yang masing-masing memiliki karakteristik dan kegunaan tertentu. Teks, sebagai bentuk informasi yang paling umum, digunakan untuk menyimpan data dalam bentuk tulisan yang dapat diproses, dianalisis, atau disajikan dalam berbagai aplikasi, seperti dokumen atau database. Gambar, baik berupa foto, ilustrasi, atau grafik, menyimpan informasi visual yang penting dalam berbagai bidang, mulai dari seni hingga ilmu pengetahuan. Audio dan video, yang semakin banyak digunakan dalam konteks komunikasi dan hiburan, menyimpan informasi dalam bentuk suara dan gambar bergerak, yang memungkinkan penyampaian pesan secara lebih dinamis dan interaktif. Penyimpanan data dalam format elektronik ini memungkinkan pengolahan dan distribusi informasi secara efisien, memberikan kemudahan akses, serta mendukung berbagai kegiatan baik dalam lingkup pribadi maupun profesional. Keberagaman format ini juga menciptakan tantangan dalam hal pengelolaan dan keamanan data, yang memerlukan sistem yang efektif dan terstruktur.
 

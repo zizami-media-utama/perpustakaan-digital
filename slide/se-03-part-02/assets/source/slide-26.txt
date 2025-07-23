@@ -1,4 +1,4 @@
-MODS adalah skema metadata yang dikembangkan oleh Library of Congress dan menawarkan detail lebih lanjut daripada Dublin Core.
+selain Marc, kita juga akan mempelajari MODS. MODS adalah skema metadata yang dikembangkan oleh Library of Congress dan menawarkan detail lebih lanjut daripada Dublin Core.
 
 1. Keunggulan:
 

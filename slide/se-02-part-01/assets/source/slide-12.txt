@@ -1,4 +1,4 @@
-DLS dapat diimplementasikan di berbagai jenis perpustakaan, baik di perpustakaan universitas, perpustakaan umum, maupun perpustakaan khusus.
+kemudian yang terakhir adalah DLS dapat diimplementasikan di berbagai jenis perpustakaan, baik di perpustakaan universitas, perpustakaan umum, maupun perpustakaan khusus.
 
 1. Perpustakaan Universitas:
 

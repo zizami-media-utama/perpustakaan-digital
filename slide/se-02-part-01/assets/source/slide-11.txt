@@ -1,4 +1,4 @@
-Metadata
+nah, pembahasan selanjutnya adalah Pengelolaan Metadata dalam DLS. Metadata
 
 Informasi yang mendeskripsikan dan mengindeks koleksi digital, yang dikenal sebagai metadata, memainkan peran penting dalam meningkatkan aksesibilitas dan efisiensi pencarian dalam sistem perpustakaan digital. Metadata mencakup elemen-elemen seperti judul, pengarang, tahun publikasi, kata kunci, abstrak, dan format dokumen, yang memungkinkan sistem untuk mengorganisasi serta mengklasifikasikan koleksi secara sistematis. Pengindeksan metadata dilakukan menggunakan algoritma pencarian berbasis teks penuh, pengelompokan kategori, serta analisis semantik untuk mempermudah pengguna dalam menemukan dokumen yang relevan. Standar metadata seperti Dublin Core atau MARC (Machine-Readable Cataloging) sering digunakan untuk memastikan interoperabilitas antar sistem perpustakaan digital. Dengan penerapan metadata yang terstruktur dan teknik pengindeksan yang efisien, pencarian informasi dalam koleksi digital menjadi lebih cepat, akurat, serta sesuai dengan kebutuhan pengguna, mendukung efektivitas dalam riset dan pembelajaran berbasis digital
 
