@@ -1,6 +1,6 @@
 koleksi digital
 
-Data atau sumber informasi yang dikonversi dalam format digital merupakan proses mengubah berbagai bentuk informasi fisik, seperti buku, dokumen, gambar, audio, dan video, ke dalam format digital agar lebih mudah diakses, disimpan, dan dibagikan. Proses ini sering disebut sebagai digitalisasi, yang bertujuan untuk menjaga keawetan informasi serta meningkatkan efisiensi dalam penggunaannya. Misalnya, buku cetak dapat dipindai dan dikonversi menjadi e-book dalam format PDF atau EPUB, sementara rekaman audio dapat diubah menjadi file MP3 agar lebih mudah diputar di berbagai perangkat.
+Data atau sumber informasi yang dikonversi dalam format digital merupakan proses mengubah berbagai bentuk informasi fisik, seperti buku, dokumen, gambar, audio, dan video, ke dalam format digital agar lebih mudah diakses, disimpan, dan dibagikan. Proses ini sering disebut sebagai digitalisasi, yang bertujuan untuk menjaga keawetan informasi serta meningkatkan efisiensi dalam penggunaannya. Misalnya, buku cetak dapat dipindai dan dikonversi menjadi e-book dalam format PDF atau EPUB, sementara rekaman audio dapat diubah menjadi file mpthree agar lebih mudah diputar di berbagai perangkat.
 
 infrastruktur teknologi
 
